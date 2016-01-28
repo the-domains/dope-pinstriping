@@ -1,0 +1,28 @@
+name: Dope Pinstriping
+favicon: null
+layout_spectrum: 0.1283770170994103
+typography_spectrum: 0.005658751353621483
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.20062455558218062
+  lightness: 0.977596815675497
+  saturation: 0.4636915526352823
+  rhythmicContrast: 0.17180214053951204
+purpose: []
